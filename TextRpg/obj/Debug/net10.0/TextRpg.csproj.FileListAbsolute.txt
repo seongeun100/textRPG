@@ -1,0 +1,14 @@
+/Users/100se/TeamSparta/TextRpg/bin/Debug/net10.0/TextRpg
+/Users/100se/TeamSparta/TextRpg/bin/Debug/net10.0/TextRpg.deps.json
+/Users/100se/TeamSparta/TextRpg/bin/Debug/net10.0/TextRpg.runtimeconfig.json
+/Users/100se/TeamSparta/TextRpg/bin/Debug/net10.0/TextRpg.dll
+/Users/100se/TeamSparta/TextRpg/bin/Debug/net10.0/TextRpg.pdb
+/Users/100se/TeamSparta/TextRpg/obj/Debug/net10.0/TextRpg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/100se/TeamSparta/TextRpg/obj/Debug/net10.0/TextRpg.AssemblyInfoInputs.cache
+/Users/100se/TeamSparta/TextRpg/obj/Debug/net10.0/TextRpg.AssemblyInfo.cs
+/Users/100se/TeamSparta/TextRpg/obj/Debug/net10.0/TextRpg.csproj.CoreCompileInputs.cache
+/Users/100se/TeamSparta/TextRpg/obj/Debug/net10.0/TextRpg.dll
+/Users/100se/TeamSparta/TextRpg/obj/Debug/net10.0/refint/TextRpg.dll
+/Users/100se/TeamSparta/TextRpg/obj/Debug/net10.0/TextRpg.pdb
+/Users/100se/TeamSparta/TextRpg/obj/Debug/net10.0/TextRpg.genruntimeconfig.cache
+/Users/100se/TeamSparta/TextRpg/obj/Debug/net10.0/ref/TextRpg.dll
